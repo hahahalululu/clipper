@@ -7,3 +7,4 @@ Pillow
 numpy
 pydantic
 imageio-ffmpeg
+

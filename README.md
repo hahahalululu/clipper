@@ -43,3 +43,4 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 Open your browser at `http://localhost:8501`, enter your Gemini API key, input a video, and generate your viral clips!
+
