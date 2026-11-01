@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Media & Temporary files
+temp_workspace/
+rendered_shorts/
+*.mp4
+*.mkv
+*.webm
+*.avi
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

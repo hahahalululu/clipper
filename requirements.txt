@@ -1,0 +1,9 @@
+streamlit
+google-genai
+yt-dlp
+moviepy
+faster-whisper
+Pillow
+numpy
+pydantic
+imageio-ffmpeg
